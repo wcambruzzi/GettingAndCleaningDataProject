@@ -26,5 +26,5 @@ The documento script `run_analysis.html` have a step by step process detail.
   
 # Outputs produced
 
-Tidy dataset file `tidyDataSet.txt`
+Tidy dataset file `tidydata.txt`
 Details in codebook file `codebook.md´.
