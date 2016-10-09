@@ -22,7 +22,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 1 - Run script `run_analysis.r`.
 
-The documento script `run_analysis.html` have a step by step process detail.
+The documento script `run_analysis.md` have a step by step process detail.
   
 # Outputs produced
 
